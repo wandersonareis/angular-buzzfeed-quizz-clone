@@ -1,0 +1,60 @@
+{
+  "title": "Qual herói da Marvel você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual desses poderes você escolheria?",
+      "options": [
+        { "id": 1, "name": "Força sobre-humana", "alias": "A" },
+        { "id": 2, "name": "Teletransporte", "alias": "B" },
+        { "id": 3, "name": "Regeneração", "alias": "A" },
+        { "id": 4, "name": "Controle elemental", "alias": "B" },
+        { "id": 5, "name": "Super velocidade", "alias": "A" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Com qual desses grupos você preferiria trabalhar?",
+      "options": [
+        { "id": 1, "name": "Os Vingadores", "alias": "B" },
+        { "id": 2, "name": "Os X-Men", "alias": "B" },
+        { "id": 3, "name": "O Quarteto Fantástico", "alias": "B" },
+        { "id": 4, "name": "Os Defensores", "alias": "A" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual desses vilões você gostaria de enfrentar?",
+      "options": [
+        { "id": 1, "name": "Doutor Destino", "alias": "B" },
+        { "id": 2, "name": "Magneto", "alias": "B" },
+        { "id": 3, "name": "Duende Verde", "alias": "A" },
+        { "id": 4, "name": "Thanos", "alias": "A" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é sua maior motivação como herói?",
+      "options": [
+        { "id": 1, "name": "Lutar pela justiça", "alias": "B" },
+        { "id": 2, "name": "Proteger a humanidade", "alias": "B" },
+        { "id": 3, "name": "Vingar uma injustiça", "alias": "A" },
+        { "id": 4, "name": "Adquirir mais poder", "alias": "A" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual desses apelidos você prefere?",
+      "options": [
+        { "id": 1, "name": "O Poderoso", "alias": "A" },
+        { "id": 2, "name": "O Invencível", "alias": "B" },
+        { "id": 3, "name": "O Destemido", "alias": "A" },
+        { "id": 4, "name": "O Corajoso", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você seria um herói impetuoso e destemido, como o Homem-Aranha ou o Wolverine!",
+    "B": "Você seria um herói nobre e protetor, como o Capitão América ou o Homem de Ferro!"
+  }
+}
